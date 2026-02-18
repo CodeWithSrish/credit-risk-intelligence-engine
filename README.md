@@ -1,6 +1,6 @@
 # 🏦 Credit Risk Intelligence Engine
 
-> **Credit Risk Assessment with Fairness Constraints & Model Explainability**
+> **Credit Risk Intelligence Engine with Fairness Constraints & Model Explainability**
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-orange)](https://xgboost.readthedocs.io/)
